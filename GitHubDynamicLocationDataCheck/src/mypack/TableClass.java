@@ -32,7 +32,7 @@ public class TableClass {
 
     @Override
     public int hashCode() {
-        int hCode = 0;
+        int hCode = 1;
         for(String col: this.cwdMap.keySet()){
             hCode = hCode+cwdMap.get(col).hashCode();
         }
