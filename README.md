@@ -8,3 +8,5 @@ http://jsfiddle.net/72zgL3ok/2/
 
 
 https://developer.salesforce.com/forums?id=906F00000008vMRIAY
+
+https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
